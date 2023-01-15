@@ -3,7 +3,7 @@ package whileLoops;
 public class armStrongNumber {
 	public static void main(String[] args) {
 		// armstrong number 153=(1*1*1)+(5*5*5)+(3*3*3)
-		int n = 53;
+		int n = 153;
 		int temp = n;
 		int d;
 		int sum = 0;
